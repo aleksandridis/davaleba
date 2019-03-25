@@ -1,0 +1,3 @@
+lexus nx300;automatic;left;red
+audi Q7;automatic;left;black
+fiat 500x;manual; right; white
